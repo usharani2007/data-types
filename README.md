@@ -1,4 +1,4 @@
-# data-types
+data-types
 
 we are learing diffrent data types
 
@@ -15,6 +15,12 @@ particular data type int
 negative value or positive value to learn
 
 
+
+
+
+floating file.py
+
+floating  in a particular datatype float
 
 
 
