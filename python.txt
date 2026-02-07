@@ -1,0 +1,13 @@
+
+python was invented by Guido van Rossum in 1991
+pop procedure oriented programming language
+ errors
+Oop object oriented programming language
+reduce traffic
+its check line by line it's called interpreter
+it is portable language
+
+limitations of python
+> performance is low when compared to other programming lang
+> It is weak in mobile applications compared to java
+> 

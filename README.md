@@ -26,3 +26,13 @@ floating  in a particular datatype float
 
 
 
+
+
+string.py
+
+today i learn string datatypes with in qutoes
+
+strings in marks within qutoes learn 
+
+
+
