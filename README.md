@@ -32,7 +32,15 @@ string.py
 
 today i learn string datatypes with in qutoes
 
-strings in marks within qutoes learn 
+strings in marks within qutoes learn
 
 
+
+
+
+list.py
+
+today i learn tuple store the number and vowels
+
+single and identity
 
