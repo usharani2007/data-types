@@ -1,0 +1,3 @@
+string="technologhy"
+print("venky:",string[0:6])
+

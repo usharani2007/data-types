@@ -30,10 +30,10 @@ print("multplication of floating",cgpa1*cgpa2)
 print("division of floating",cgpa1/cgpa2)
 
 complex_number1=99+85j
-complex_nmuber2=complex(67,5)
+complex_number2=complex(67,5)
 print(complex_number1,complex_number2)
 print("addition of complex_number",complex_number1+complex_number1)
-print("sub of complex_number",complex_number1-number2)
+print("sub of complex_number",complex_number1-complex_number2)
 print("multiplication of complex_number",complex_number1*complex_number2)
 print("division of complex_number",complex_number1/complex_number2)
 

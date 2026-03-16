@@ -1,0 +1,7 @@
+person_1="bhavani"
+person_2="usha"
+interview{person_1:true,person_2:false}
+if interview[person_1]:
+     print("welcome to it sector")
+else:
+     print("go to cooking")
